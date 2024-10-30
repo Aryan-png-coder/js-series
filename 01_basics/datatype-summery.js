@@ -35,3 +35,14 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//*******************************************************************
+
+//stack (Primitive) premitive datatype goes to stack memory
+
+// in stack we get copy of value
+
+// Heap => Non-Premitive datatype goes to Heap memory
+
+// in heap we get original refrence of value     
