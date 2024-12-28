@@ -5,7 +5,7 @@ console.log(`Hello my name is ${name} and my age is ${age}`);
 
 //another way of declaring string
 
-const gameName = new String("super mario")
+const gameName = new String('super mario')
 console.log(gameName[2]);
 console.log(gameName.__proto__);
 
